@@ -1,7 +1,7 @@
 <h1>Laptop Orchestration</h1>
 
-Mentors: Himanshu Mittal
-Intern: Rajat Tripathi
+<h2>Mentors: Himanshu Mittal, Suresh</h2><br>
+<h2>Intern: Rajat Tripathi</h2>
 
 Project Description:
 This project enables laptop administrators to define, schedule, and execute custom workflows through scripts on endpoints managed via IBM MaaS360, then capture and review execution status and logs directly within the MaaS360 portal.
